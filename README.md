@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varshaiyer30 Varsha Iyer.
-- 👀 I’m interested in digital product design, UX and UI design.
+- 👀 I’m interested in product design, UX and UI design.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on iOS app development or any UI/UX design projects.
 - 📫 How to reach me:
